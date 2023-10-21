@@ -18,6 +18,7 @@ STATISTICS
 📧 You can reach out to me at:
 
 ✉️ bsnirmalraj@gmail.com
+
 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/bsnirmalraj/ 
 
 📚 On a continuous quest for knowledge, I recently completed a Comprehensive Data Analyst course on the EdTech platform, SkilloVilla.
