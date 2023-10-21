@@ -21,7 +21,9 @@ STATISTICS
 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/bsnirmalraj/ 
 
 📚 On a continuous quest for knowledge, I recently completed a Comprehensive Data Analyst course on the EdTech platform, SkilloVilla.
+
 📖 In my spare time, I channel my creativity into writing stories and novels.
+
 👨‍💻 My GitHub repository is a treasure trove of projects and insights. Let's collaborate and build something remarkable!
 
 <!---
