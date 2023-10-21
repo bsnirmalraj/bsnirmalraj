@@ -6,17 +6,7 @@
 
 🎓 By education, I hold a degree in Electrical Engineering from Gujarat Technological University.
 
-💼 My proficiency lies in:
-
-SQL
-
-EXCEL
-
-TABLEAU
-
-POWER BI
-
-STATISTICS
+💼 My proficiency lies in SQL | EXCEL | TABLEAU | POWER BI
 
 💻 I'm a fervent advocate for data-driven decision-making, and I'm always ready to craft impactful data visualizations.
 
