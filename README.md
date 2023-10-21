@@ -7,6 +7,7 @@
 🎓 By education, I hold a degree in Electrical Engineering from Gujarat Technological University.
 
 💼 My proficiency lies in:
+
 SQL
 
 EXCEL
