@@ -8,7 +8,7 @@
 
 💻 I'm a fervent advocate for data-driven decision-making, and I'm always ready to craft impactful data visualizations.
 
-📧 You can reach out to me at: bsnirmalraj@gmail.com
+📧 You can reach out to me at: bsnirmalraj@outlook.com or bsnirmalraj@gmail.com
 
 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/bsnirmalraj/ 
 
