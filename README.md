@@ -1,8 +1,6 @@
 👋 Hello, I'm B. S. Nirmal Raj.
 
-🌍 I'm a passionate Data Analyst hailing from the serene city of Thiruvananthapuram, Kerala.
-
-📊 Certified in data analytics, I'm also known for my skills in scripting compelling narratives as a film writer.
+📊 Certified in data and marketing analytics, I'm also known for my skills in scripting compelling narratives as a film writer.
 
 🎓 By education, I hold a degree in Electrical Engineering from Gujarat Technological University.
 
