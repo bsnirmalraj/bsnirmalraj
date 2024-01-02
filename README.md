@@ -1,12 +1,12 @@
 👋 Hello, I'm B. S. Nirmal Raj.
 
-📊 Certified in data and marketing analytics, I'm also known for my skills in scripting compelling narratives as a film writer.
+📊 Certified in data analytics, I'm also known for my skills in scripting compelling narratives as a film writer.
 
 🎓 By education, I hold a degree in Electrical Engineering from Gujarat Technological University.
 
 💼 My proficiency lies in SQL | EXCEL | TABLEAU | POWER BI
 
-💻 I'm a fervent advocate for data-driven decision-making, and I'm always ready to craft impactful data visualizations.
+💻 I'm a fervent advocate for data-driven decision-making and I'm always ready to craft impactful data visualizations.
 
 📧 You can reach out to me at: bsnirmalraj@outlook.com or bsnirmalraj@gmail.com
 
